@@ -1,0 +1,16 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "A web application that replicates the functionality of a Pygame script with a 16x16 pixel grid.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
